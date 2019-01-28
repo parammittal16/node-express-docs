@@ -1,4 +1,4 @@
-# node-docs
+# node-express-docs
 
 ### NO NEED TO ASK ENDPOINTS FROM YOUR BACKEND DEVELOPER EVERY MINUTE
 
@@ -7,15 +7,15 @@ A node package used to display all the registered endpoints of the project and s
 ## How To Install
 It is just a development dependency
 ```
-npm install node-docs --save-dev
+npm install node-express-docs --save-dev
 ```
 Or it can be used as a full dependency  
 ```
-npm install node-docs --save
+npm install node-express-docs --save
 ```
 ## How to use
 ```
-const showEndpoints = require('node-docs');
+const showEndpoints = require('node-express-docs');
 
 ```
 In main app.js/index.js/server.js

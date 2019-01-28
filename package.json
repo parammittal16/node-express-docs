@@ -1,5 +1,5 @@
 {
-  "name": "node-docs",
+  "name": "node-express-docs",
   "version": "1.0.0",
   "description": "A node package used to display all the registered endpoints of the project and send them with password protection to anyone using the api",
   "main": "server.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parammittal16/node-docs.git"
+    "url": "git+https://github.com/parammittal16/node-express-docs.git"
   },
   "keywords": [
     "npm",
@@ -27,7 +27,7 @@
   "author": "Param Mittal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/parammittal16/node-docs/issues"
+    "url": "https://github.com/parammittal16/node-express-docs/issues"
   },
-  "homepage": "https://github.com/parammittal16/node-docs#readme"
+  "homepage": "https://github.com/parammittal16/node-express-docs#readme"
 }
