@@ -1,0 +1,33 @@
+{
+  "name": "node-docs",
+  "version": "1.0.0",
+  "description": "A node package used to display all the registered endpoints of the project and send them with password protection to anyone using the api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parammittal16/node-docs.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "docs",
+    "express",
+    "endpoints",
+    "api",
+    "end",
+    "points",
+    "node",
+    "docs",
+    "js",
+    "requests"
+  ],
+  "author": "Param Mittal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parammittal16/node-docs/issues"
+  },
+  "homepage": "https://github.com/parammittal16/node-docs#readme"
+}
